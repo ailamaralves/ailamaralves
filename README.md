@@ -2,7 +2,6 @@
 
 Eu sou Ailamar Alves e curso Engenharia de Software na Universidade de Brasília. ✏ 💻 🤜🤛
 
----
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=ailamaralves&show_icons=true&theme=radical)
 
