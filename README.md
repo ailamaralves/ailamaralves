@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou Ailamar Alves e curso Engenharia de Software na Universidade de Brasília. ✏ 💻 🤜🤛  
+Eu sou Ailamar Alves, graduada em Engenharia de Software na Universidade de Brasília. ✏ 💻 🤜🤛  
 Bem vindo ao meu GitHub!
 
 
